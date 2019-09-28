@@ -1,6 +1,8 @@
 # google-homepage
 The aim of this repo is getting familiar with the points below
 
+(http://www.theodinproject.com/courses/web-development-101/lessons/html-css)
+
     Two ways to move a div around on the page
     Stick a div onto the bottom or top of the page
     Identify the background color of an existing webpage
